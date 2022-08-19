@@ -9,3 +9,5 @@ Implemented Raspberry Pi 4 for controlling and modifying the systems, with a rob
 My main responsibility is to enhance the accuracy and efficiency of the object recognization program. I have implemented both serial approach and multi-threads approach.
 
 In this project, we have to deal with the aggregation of subsystems for different real-time functions on the robot arm, iRobot, as well as on the Pi 4.
+
+*We temporally use a regular flash ligh to mock the UV-light disinfection.*
